@@ -1,5 +1,3 @@
-Naïve Bayes classifier built using Python to handle multimodal data
-
 //	Introduction 
 Program contained in Jupyter notebook file, naive_bayes_classifer.ipynb. Please ensure that all cells are run such that all function definitions are stored in memory. 
 
